@@ -1,5 +1,21 @@
-Amazon Sales Dashboard
+ # Amazon Sales Dashboard
 
-Project Overview
+## Project Overview
 
 This project is a Power BI dashboard created using an Amazon Sales dataset from Kaggle. The dashboard helps analyze sales performance, profit trends, order status, and product category insights.
+
+## Objectives
+
+* Analyze sales performance
+* Identify top-performing categories
+* Track profit trends
+* Understand order distribution
+* Visualize sales insights
+
+## Tool Used
+
+* Power BI
+
+## Dataset
+
+* Amazon Sales Dataset from Kaggle
